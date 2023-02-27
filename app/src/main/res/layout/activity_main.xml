@@ -22,11 +22,11 @@
 
     <!--  FORM  -->
     <TextView
-        android:id="@+id/tvSignUp"
+        android:id="@+id/tvHeadline"
         android:gravity="center"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Sign Up"
+        android:text="Welcome to Lusog!"
         android:textSize="24dp"
         android:textStyle="bold" />
 
@@ -80,7 +80,7 @@
         android:id="@+id/button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:text="Sign Up" />
 
 
 </LinearLayout>
